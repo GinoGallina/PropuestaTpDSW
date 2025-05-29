@@ -6,8 +6,8 @@
 
 
 ### Repositorios
-* [frontend app]([https://github.com/GinoGallina/EcommerceDSWFront])
-* [backend app]([https://github.com/GinoGallina/EcommerceDSWBack])
+* [frontend app](https://github.com/GinoGallina/EcommerceDSWFront)
+* [backend app](https://github.com/GinoGallina/EcommerceDSWBack)
 
 
 ## Tema
