@@ -3,19 +3,17 @@
 ## Grupo
 ### Integrantes
 * 48115 - Gino Gallina
-* 49105 - Tomas Bianchini
-* 47253 - Angel Folguera
-* 47054 - German Pacheco 
+
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app]([https://github.com/GinoGallina/EcommerceDSWFront])
+* [backend app]([https://github.com/GinoGallina/EcommerceDSWBack])
 
 
 ## Tema
 ### Descripción
-Sitio web con soporte multitienda para realizar la venta de productos, de los cuales el Vendedor será encargado de los envios. El sitio va a contar con distintos niveles de usuario, los cuales serán Cliente, Administrador y Vendedor. El cliente podrá seleccionar porductos de distintos vendedores y agregarlos a su carrito para luego elegir un método de pago y realizar la compra.
-Además, el sitio contará con la posibilidad de agregar descuentos a los productos
+El proyecto consiste en el desarrollo de un sitio web de comercio electrónico que permite a los usuarios realizar la compra de productos ofrecidos por múltiples vendedores.  Los clientes pueden tanto dejar reseñas y calificaciones para los productos que han comprado como cancelar sus pedidos antes de ser entregados.
+El sitio estará diseñado para admitir diferentes niveles de usuarios, incluidos Clientes, Administradores y Vendedores, cada uno con funciones específicas. 
 
 
 ### Modelo
