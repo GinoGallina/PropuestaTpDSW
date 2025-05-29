@@ -27,7 +27,3 @@ El sitio estará diseñado para admitir diferentes niveles de usuarios, incluido
 ![image](https://github.com/GinoGallina/TPDesarrolloDeSoftware/assets/103271990/9f22ff5e-544f-4d36-90ca-d7c5d34e56f7)
 
 
-### Alcance Adicional Voluntario
-
-...
-
