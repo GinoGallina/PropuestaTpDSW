@@ -17,10 +17,7 @@ El sitio estará diseñado para admitir diferentes niveles de usuarios, incluido
 
 
 ### Modelo
-![image](https://github.com/GinoGallina/TPDesarrolloDeSoftware/assets/103271990/94735521-5235-47b4-a1c2-a0f16f3acced)
-
-
-*Link*: https://app.diagrams.net/#G1Kb6HJ3Q-jrPEnXC_m4PfJo3ZLdNcusdI
+![image](https://github.com/GinoGallina/PropuestaTpDSW/blob/GinoGallina/ecommerce_diagram.png?raw=true)
 
 ## Alcance Funcional 
 
